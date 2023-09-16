@@ -2,3 +2,5 @@ Hello world!!!
 New line =)
 Good buy
 CHANGE BY USER 2
+
+USER1 added some info in file1
